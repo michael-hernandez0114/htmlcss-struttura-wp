@@ -33,11 +33,20 @@
 }
 
 .main {
-    width: calc(100% - 255px);
+    width: calc(100% - 510px);
     height: 400px;
     background-color: purple;
     float: left;
 }
+
+.aside2 {
+    width: 250px;
+    height: 200px;
+    background-color: lavender;
+    float: left;
+    margin-left: 5px;
+}
+
 
 .footer {
     width: 100%;
