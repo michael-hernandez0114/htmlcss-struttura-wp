@@ -16,7 +16,6 @@
     background-color: white;
     margin: 0 auto;
 }
-
 .row {
     height: 400px;
     background-color: white;
@@ -26,40 +25,6 @@
     height: 200px;
     background-color: yellow;
     margin-bottom: 10px;
-    position: relative;
-}
-
-.header-menu {
-    height: 40px;
-    background-color: lightblue;
-}
-
-ul {
-    display: inline-block;
-}
-
-li {
-    display: inline-block;
-    margin-right: 5px;
-    
-}
-
-.header img {
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-    padding: 5px;
-}
-
-.header span {
-    position: absolute;
-    top: 50%;
-    right: 50%;
-    transform: translate(-50%,-50%);
-    color: white;
-    border: 5px solid white;
-    padding: 5px;
-    font-size: 40px;
 }
 
 .aside {
@@ -67,13 +32,11 @@ li {
     height: 200px;
     background-color: lavender;
     float: left;
-
 }
 
 .main {
     width: 50%;
     height: 400px;
-
     float: left;
     padding: 0 10px;
 }
